@@ -1,0 +1,7 @@
+运单号 收件地址 收件人姓名 寄件人姓名 收件人联系电话 寄件人联系电话 快件状态 派送员
+2847395743 St.Sham-No.17 wiKy moKy 18813276464 13625647362 sent Arch
+2745638475 Harvard-Library Wind smoky 18647264743 18857636532 unsent Alan
+1757483754 HKU-A243 Hans Field 13324357385 18947265473 sent Bill
+5736472854 SCUT-C7410 Caesar Emperor 18813298338 13574638572 sent Alan
+1857495736 MegaCenter KID Conan 13647362433 13746583746 sent Lionel
+7456287456 St.Wall-No.01 Buffett Rothschild 18814358294 18647357284 unsent Lang
